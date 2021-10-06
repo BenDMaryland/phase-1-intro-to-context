@@ -1,1 +1,5 @@
-// Your code here
+function createEmployeeRecord(e,i) {  
+    console.log("hi")
+    firstname = e
+    lastname = i 
+}
